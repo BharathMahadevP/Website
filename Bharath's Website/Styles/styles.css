@@ -1,0 +1,17 @@
+body {
+
+    background-color: powderblue;
+
+}
+
+hr {
+    /* height: 2px; */
+    /* color: tan; */
+    color: grey;
+    opacity: 50%;
+    width: 7%;
+    border-style: dotted none none;
+    border-width: 6.5px;
+    height: 0px;
+
+}
