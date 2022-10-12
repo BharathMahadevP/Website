@@ -2,6 +2,8 @@ body {
 
     /* background-color: powderblue; */
     background-image: url('pastel bg.jpg');
+    background-repeat: no-repeat;
+    background-size: 1000px 1000px ;
 }
 
 hr {
@@ -22,6 +24,6 @@ h1{
 
 h3{
     
-    color: azure;
+    color: ;
    
 }
